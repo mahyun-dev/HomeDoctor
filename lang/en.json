@@ -1,0 +1,8 @@
+{
+  "button_name": "Save",
+  "welcome": "Welcome to Home Doctor!",
+  "scan": "Scan",
+  "device_list": "My Devices",
+  "no_device": "No devices registered.",
+  "delete": "Delete"
+}
